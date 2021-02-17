@@ -1,0 +1,22 @@
+.music {
+    width: 399px;
+    display: flex;
+    padding: 10px;
+    border: 1px solid #e2e8f0;
+    margin-top: -1px;
+    cursor: pointer;
+    
+}
+.music:hover {
+    background-color: #edf2f7;
+}
+.description {
+    text-align: left;
+    margin-left: 20px;
+}
+.poster {
+    
+}
+.name {
+    font-weight: 700;
+}

@@ -1,0 +1,17 @@
+.form {
+    width: 100%;
+    
+    text-align: center;
+}
+
+.search {
+    width: 415px;
+    height: 30px;
+    border: 1px solid #cbd5e0;
+    outline: none;
+    display: inline;
+}
+.button {
+    font-size: 15px;
+    
+}

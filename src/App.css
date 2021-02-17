@@ -1,0 +1,15 @@
+.music {
+  position: absolute;
+  left: 590px;
+}
+.posterContainer {
+ display: flex;
+   margin-top: 450px;
+   justify-content: center;
+}
+.poster {
+  margin-left: 10px;
+}
+.poster.active {
+  border: 5px solid blue;
+}
